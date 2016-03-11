@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BlueConnect</string>
+    <string name="wait_till_bt_on">Bluetoothを有効にします</string>
+    <string name="bt_needs_to_be_enabled">Bluetoothを有効化する必要があります</string>
+    <string name="problems_at_connecting">Bluetoothを有効化できません</string>
+    <string name="select_device">デバイスを選択</string>
+    <string name="title_paired_devices">接続履歴のあるデバイス</string>
+    <string name="title_other_devices">その他のデバイス</string>
+    <string name="button_scan">デバイスをスキャン</string>
+    <string name="none_paired">接続履歴のある機器はありません</string>
+    <string name="none_found">デバイスが見つかりません</string>
+    <string name="scanning">スキャン中</string>
+    <string name="connecting_please_wait">接続中です\nしばらくお待ちください</string>
+    <string name="connected">接続しました</string>
+    <string name="nopaired_pc">ペアリングされたPCがありません</string>
+    <string name="pairing_message">ペアリングしてから接続してください</string>
+    <string name="main_pairing">接続されています</string>
+    <string name="main_nopairing">接続されていません</string>
+    <string name="rq_send">テスト送信</string>
+</resources>
